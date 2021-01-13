@@ -5,3 +5,4 @@ Highly recommend to run in colab: https://colab.research.google.com/drive/1d67mp
 
 Before run, you need to upload the dataset which is called 'reddit_data.txt' to main directory.
 
+As Colab does not support GUI's like Tkinter, Tkinter functions is deactivated with comment symbols.
